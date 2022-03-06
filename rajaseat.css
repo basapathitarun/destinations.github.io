@@ -1,0 +1,64 @@
+h1
+{
+    text-align: center;
+    color:rgb(153, 106, 19) ;
+    font-weight: bolder;
+    text-decoration: underline;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    
+}
+
+h2
+
+{
+    text-align: left;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-decoration: underline;
+    color:mediumpurple;
+}
+
+p
+{
+
+    font-size: 0.5cm;
+    font-style: italic;
+    text-align:justify ;
+
+}
+
+img
+{
+    
+  
+    
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    border:1rem double brown;
+    
+    border-radius: 5px;
+    
+}
+li
+
+{
+    font-style: oblique;
+    font-size: 0.5CM;
+}
+
+button
+{
+    width: 2.5cm;
+    height: 1.5cm;
+    background-color:green;
+    color: white;
+    font-size: 1cm;
+    font-style: italic;
+    border: none;
+    text-decoration: none;
+    text-align: center;
+    display: inline-block;
+
+    
+}

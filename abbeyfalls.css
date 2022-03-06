@@ -1,0 +1,76 @@
+h1
+{
+    text-align: justify;
+    text-decoration: underline;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 1cm;
+    color: green;
+    font-weight: bolder;
+    
+}
+
+p
+{
+        font-size: 0.5cm;
+        font-style: italic;
+        text-align:justify ;
+} 
+
+
+h3
+{
+    font-size: 0.75cm;
+    text-align: left;
+    color: rgb(17, 54, 17);
+    font-weight: bolder;
+    text-decoration: underline;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    
+}
+
+li
+{
+    font-style: italic;
+    font-size: 0.5CM;
+}
+
+img
+{
+     
+    
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 50%;
+        border: 1rem double rgb(44, 44, 224);
+        
+        
+    
+    
+}
+
+
+video
+{
+    width: auto;
+    height: auto;
+    border: 1rem double rgb(85, 4, 4);
+    
+}
+button
+{
+    width: 2.5cm;
+    height: 1.5cm;
+    background-color:skyblue;
+    color: white;
+    font-size: 1cm;
+    font-style: italic;
+    border: none;
+    text-decoration: none;
+    text-align: center;
+    display: inline-block;
+
+    
+}
+
+  

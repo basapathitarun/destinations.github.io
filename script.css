@@ -1,0 +1,98 @@
+div
+{
+ 
+    background-image: url("webtechonolgyfrontpage.jpeg");
+    background-color:  #c0c0c0;
+    
+    background: position;
+    background-repeat:no-repeat;
+    background-size:cover;
+    position:relative;
+    background-attachment: fixed;
+
+}
+.one
+{
+text-align:center;
+text-align-last: center;    
+font-size: 75px;
+font-weight: bold;
+font-style: italic;
+color:rgb(236, 186, 211); 
+
+
+}
+  
+  
+.two
+{
+text-align: center;
+font-size: 50px;
+font-style: oblique;
+color:rgb(97, 62, 221);
+
+}
+
+a
+{
+    text-align: center ;
+    
+    font-size: 2cm;
+    color:rgb(255, 255, 197);
+ 
+   
+ 
+    
+
+}
+p2
+{
+background:transparent;
+
+    
+}
+
+th
+{
+    text-align: center;
+    font-size: 50px;
+    font-weight: bolder;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    color: rgb(192, 59, 59);
+
+}
+td
+{
+    text-align: center;
+    font-size: 45px;
+    font-weight: lighter;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    color:rgb(230, 209, 20);
+ 
+    
+   
+
+   
+    
+}
+caption
+{
+    font-size: 65px;
+    font-weight: 600;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    color:rgb(15, 189, 189);
+    text-decoration: underline rgb(180, 16, 117);
+ 
+    
+    
+}
+
+
+
+
+
+
+    

@@ -1,0 +1,70 @@
+h1
+{
+    font-size: 1cm;
+    text-align: left;
+    text-decoration: underline;
+    text-decoration-color:red ;
+    color:darkviolet;
+}
+
+img
+{   
+    
+    
+  
+    padding: 1px;
+    
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+
+    
+    
+}
+
+
+ 
+p
+{
+    font-size: 0.5cm;
+    font-style: italic;
+    text-align:justify ;
+}
+
+h2
+{
+    text-align: left;
+    color: brown;
+    font-weight: bolder;
+    text-decoration: underline;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    
+}
+h3
+{
+font: size 0.8CM;
+font-family:'Times New Roman', Times, serif;
+font-style: italic;
+color: rgb(8, 8, 65);
+
+}
+
+a
+{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 0.5cm;
+    color: black;
+    
+}
+/*
+*
+{
+    background-image: url(backgroundimage2.jpeg);
+    background-repeat: no-repeat;
+    background-size:cover;
+    position:relative;
+    background-attachment: fixed;
+    
+}
+*/
+
